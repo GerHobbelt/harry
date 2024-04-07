@@ -22,7 +22,7 @@ distance, the Jaro-Winkler distance or the spectrum kernel.
 
 During operation Harry loads a set of strings from input, computes the
 specified similarity measure and writes a matrix of similarity values to
-output.  The similarity measure can be computed based on the granulartiy of
+output.  The similarity measure can be computed based on the granularity of
 bytes, bits and tokens (words) contained in the strings.  The configuration
 of this process, such as the input format, the similarity measure and the
 output format, are specified in a configuration file and can be additionally
